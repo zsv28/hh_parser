@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BF709&random=false&width=435&lines=%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80+hh.ru)](https://git.io/typing-svg)
 
+Парсер популярного сайта вакансий hh.ru посредством использования API https://dev.hh.ru/
+
 ### Технолонии
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
 
